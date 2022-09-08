@@ -24,6 +24,7 @@ Target: "Full-Stack Software Engineer"
 - HTML
 - CSS
 - SCSS
+- BEM Metodology
 - Tailwind CSS
 - JavaScript (basic)
 - Git
@@ -42,4 +43,6 @@ const res = people.find((people) => (people.name = 'Alice'));
 console.log(res);
 ```
 
-# Experience
+# Education
+
+- Result School: Training - Intensive
