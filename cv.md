@@ -30,7 +30,7 @@ I am flexible, reliable and have excellent time tracking skills. I am purposeful
 
 # Code Example:
 
-`
+```
 const people = [
 { name: 'Kasim', age: 24 },
 { name: 'Alice', age: 20 },
@@ -39,4 +39,4 @@ const people = [
 const res = people.find((people) => (people.name = 'Alice'));
 
 console.log(res);
-`
+```
