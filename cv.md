@@ -39,5 +39,4 @@ const people = [
 const res = people.find((people) => (people.name = 'Alice'));
 
 console.log(res);
-
 `
