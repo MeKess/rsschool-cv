@@ -21,6 +21,9 @@ I am flexible, reliable and have excellent time tracking skills. I am purposeful
 # Skills:
 
 - HTML
-- CSS - SCSS - Tailwind CSS
+- CSS
+- SCSS
+- Tailwind CSS
 - JavaScript (basic)
-- Git - GitHub
+- Git
+- GitHub
