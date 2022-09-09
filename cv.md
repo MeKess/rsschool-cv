@@ -53,4 +53,4 @@ console.log(res);
 
 - Result School: Training - Intensive
 
-* [Udemy] [Bogdan Stashchuk] JavaScript complete course - (2022)
+* Udemy: Bogdan Stashchuk - JavaScript complete course - (2022)
