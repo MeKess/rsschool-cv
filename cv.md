@@ -45,6 +45,8 @@ console.log(res);
 
 # Education
 
-- Bryansk State Technical University + Faculty of Environmental Engineering and Water Use
+- Bryansk State Technical University
+
+  - Faculty of Environmental Engineering and Water Use
 
 - Result School: Training - Intensive
