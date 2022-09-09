@@ -64,3 +64,4 @@ console.log(res);
 - English - Pre-Intermediate (А2)
 
 ![rs_school_img](rs_school_img.svg width="200")
+<img src="rs_school_img.svg.svg" width="32"/>
