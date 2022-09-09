@@ -19,7 +19,7 @@ Finding solutions to most problems on your own.
 I am flexible, reliable and have excellent time tracking skills. I am purposeful, purposeful, reliable, responsible person. I am a mature team worker and adapt to any difficult situations. I can work well both in a team and on my own initiative.
 Target: "Full-Stack Software Engineer"
 
-# Skills:
+# Skills and Proficiency:
 
 - HTML
 - CSS
@@ -29,6 +29,8 @@ Target: "Full-Stack Software Engineer"
 - JavaScript (basic)
 - Git
 - GitHub
+- VS Code
+- Adobe Photoshop
 
 # Code Example:
 
@@ -54,3 +56,9 @@ console.log(res);
 - Result School: Training - Intensive
 
 * Udemy: Bogdan Stashchuk - JavaScript complete course - (2022)
+
+# Languages
+
+- Tajik - Native
+- Russian - Upper-Intermediate (В2)
+- English - Pre-Intermediate (А2)
