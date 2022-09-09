@@ -62,3 +62,5 @@ console.log(res);
 - Tajik - Native
 - Russian - Upper-Intermediate (В2)
 - English - Pre-Intermediate (А2)
+
+![mountains](/img/rs_school_img.svg)
