@@ -63,4 +63,9 @@ console.log(res);
 - Russian - Upper-Intermediate (В2)
 - English - Pre-Intermediate (А2)
 
+<p>
+<br>
+<br>
+</p>
+
 <img src="rs_school_img.svg" width="100"/>
