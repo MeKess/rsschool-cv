@@ -1,6 +1,6 @@
 ## rsschool-cv
 
-# _Kasim Kasimskiy_
+# _*Kasim Kasimskiy*_
 
 # Contacts:
 
