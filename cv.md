@@ -49,4 +49,8 @@ console.log(res);
 
   - Faculty of Environmental Engineering and Water Use
 
+# Courses
+
 - Result School: Training - Intensive
+
+* [Udemy] [Bogdan Stashchuk] JavaScript complete course - (2022)
