@@ -27,6 +27,7 @@ Target: "Full-Stack Software Engineer"._
 - BEM Metodology
 - Tailwind CSS
 - JavaScript (basic)
+- Npm
 - Git
 - GitHub
 - VS Code
@@ -56,6 +57,7 @@ console.log(res);
 - Result School: Training - Intensive
 
 * Udemy: Bogdan Stashchuk - JavaScript complete course - (2022)
+* WebAcademy: Now Studying...
 
 # Languages
 
