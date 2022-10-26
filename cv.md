@@ -10,9 +10,9 @@
    * milki_way.98@mail.ru
   * faridunqosim@gmail.com
   
-* GitHub: https://github.com/MeKess
+* GitHub: * https://github.com/MeKess
 
-- Telegram: @watcherofthesens
+- Telegram: * @watcherofthesens
 
 # About Me:
 
