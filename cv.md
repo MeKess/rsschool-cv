@@ -59,7 +59,7 @@ console.log(res);
 - Result School: Training - Intensive
 
 - Udemy: Bogdan Stashchuk - JavaScript complete course - (2022)
-- WebAcademy: Frontend course (now studying . . . - 2022)
+- WebAcademy: Frontend course (now studying . . .  - 2022)
 
 # Languages
 
