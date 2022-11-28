@@ -27,6 +27,7 @@ Target: "Full-Stack Software Engineer"._
 - CSS
 - SCSS
 - BEM
+- Vite (Builder)
 - Npm & Yarn
 - Tailwind CSS
 - JavaScript (basic)
