@@ -26,12 +26,12 @@ Target: "Full-Stack Software Engineer"._
 - HTML
 - CSS
 - SCSS
-- BEM Metodology
+- BEM
+- Npm & Yarn
 - Tailwind CSS
 - JavaScript (basic)
-- Npm
-- Git
-- GitHub
+- Vue (Framework)
+- Git & GitHub
 - VS Code
 - Adobe Photoshop
 
