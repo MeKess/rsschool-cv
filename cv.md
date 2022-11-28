@@ -24,16 +24,13 @@ Target: "Full-Stack Software Engineer"._
 # Skills and Proficiency:
 
 - HTML
-- CSS
-- SCSS
-- BEM
-- Vite (Builder)
-- Npm & Yarn
-- Tailwind CSS
-- JavaScript (basic)
-- Vue (Framework)
-- Git & GitHub
+- CSS, SCSS, BEM, Tailwind CSS
 - VS Code
+- Npm & Yarn
+- Git & GitHub
+- Vite (Builder)
+- Vue (Framework)
+- JavaScript (basic)
 - Adobe Photoshop
 
 # Code Example:
